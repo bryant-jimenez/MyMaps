@@ -22,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/6EbG5M3.gif' title='MyMaps Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/6EbG5M3.gif
 
 GIF created with [CloudConvert](https://cloudconvert.com/mov-to-gif).
 
